@@ -1,0 +1,65 @@
+# Task Manager
+
+A simple task management system implemented in Python.
+
+## Table of Contents
+
+- [Description]
+- [Features]
+- [Installation]
+- [Usage
+- [Contributing]
+- [License]
+ Description
+
+This project is a task management system that allows users to register, log in, add tasks, view tasks, and generate reports. The system uses text files to store user information and task data.
+
+Features
+
+- User registration: Users can register by providing a username and password.
+- User login: Registered users can log in to the system using their credentials.
+- Task creation: Logged-in users can add tasks by providing the necessary details such as username, title, description, and due date.
+- Task viewing: Users can view all tasks or only the tasks assigned to them.
+- Task editing: Users can mark tasks as complete or edit task details if the task is not completed.
+- Report generation: The system can generate task and user overview reports based on the stored data.
+- Statistics display: Users can view task and user statistics generated from the reports.
+
+ Installation
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/your-username/modified_code.git
+   ```
+
+2. Change to the project directory:
+
+   ```shell
+   cd modified_code
+   ```
+
+3. Make sure you have Python installed. This project requires Python 3.
+
+4. Install the dependencies:
+
+   ```shell
+   pip install -r requirements.txt
+   ```
+
+Usage
+
+1. Run the `modified_code.py` file:
+
+   ```shell
+   python modified_code.py
+   ```
+
+2. Follow the on-screen prompts to navigate the task management system.
+
+ Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+ License
+
+This project is unlicense
