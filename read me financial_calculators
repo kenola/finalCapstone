@@ -1,0 +1,64 @@
+ Financial Calculators
+
+A collection of financial calculators implemented in Python.
+
+ Table of Contents
+
+- [Description](#description)
+- [Calculators](#calculators)
+  - [Investment Calculator](#investment-calculator)
+  - [Bond Calculator](#bond-calculator)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+Description
+
+This project provides two financial calculators: an Investment Calculator and a Bond Calculator. These calculators help users calculate interest earned on investments and monthly repayments for home loans.
+
+ Calculators
+
+ Investment Calculator
+
+The Investment Calculator allows users to calculate the amount of interest they'll earn on their investment. Users provide the principal amount, interest rate, investment duration in years, and the type of interest (simple or compound). The calculator then computes the total amount after the specified investment duration.
+
+### Bond Calculator
+
+The Bond Calculator helps users calculate the amount they'll have to pay on a home loan. Users input the present value of the house, the interest rate, and the number of months to repay the bond. The calculator then computes the monthly repayment amount.
+
+## Installation
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/your-username/financial-calculators.git
+   ```
+
+2. Change to the project directory:
+
+   ```shell
+   cd financial-calculators
+   ```
+
+3. Make sure you have Python installed. This project requires Python 3.
+
+4. No additional dependencies are required for this project.
+
+ Usage
+
+1. Run the `financial_calculators.py` file:
+
+   ```shell
+   python financial_calculators.py
+   ```
+
+2. Follow the on-screen prompts to select the desired calculator and provide the necessary inputs.
+
+ Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+ License
+
+This project is unlicensed.
